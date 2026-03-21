@@ -1,5 +1,17 @@
 [
   {
+    "slug": "00-00",
+    "title": "Hello World！！！",
+    "tags": [
+      "test"
+    ],
+    "date": "2026-03-21T00:29",
+    "summary": "This is a brief test.",
+    "cover": "/blogs/00-00/5652613af525fa5b.webp",
+    "hidden": true,
+    "category": "开源"
+  },
+  {
     "slug": "cursor-keyboard",
     "title": "Cursor 快捷键",
     "tags": [
